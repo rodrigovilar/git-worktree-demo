@@ -30,7 +30,9 @@
 - Tampa
 
 ### New York
-- TO DO
+- New York City
+- Buffalo
+- Albany
 
 ### Illinois
 - Chicago
