@@ -53,7 +53,8 @@
 - Tacoma
 
 ### Nevada
-- To DO
+- Las Vegas
+- Reno
 
 ### Georgia
 - Atlanta
